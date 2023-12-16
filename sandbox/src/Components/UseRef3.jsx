@@ -6,7 +6,7 @@ function UseRef3() {
     
   return (
     <div>
-      {showTodo && <Todo/>}
+      {showTodo && <Todo />}
       <button 
         className='btn btn-primary'
         onClick = {() => setShowTodo(!showTodo)} >   
