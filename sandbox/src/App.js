@@ -1,10 +1,10 @@
-import UseMemo from './Components/UseMemo'
+import UseCallback from './Components/UseCallback'
 
 
 function App() {
   return (
     <div className='container mt-5'>
-      <UseMemo/>
+      <UseCallback/>
     </div>
   )
 }
