@@ -1,9 +1,9 @@
-import CustomHook1 from './Components/CustomHook1'
+import CustomHook2 from "./Components/CustomHook2"
 
 function App() {
   return (
     <div className='container mt-5'>
-     <CustomHook1/>
+     <CustomHook2/>
     </div>
   )
 }
